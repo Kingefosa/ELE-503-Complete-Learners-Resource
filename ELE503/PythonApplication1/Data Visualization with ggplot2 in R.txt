@@ -1,0 +1,10 @@
+library(ggplot2)
+
+# Sample data
+data <- data.frame(values = c(20, 22, 19, 24, 30, 25, 27, 23, 28, 35))
+
+# Create histogram
+ggplot(data, aes(x = values)) +
+  geom_histogram(binwidth = 5, fill = "skyblue", color = "black") +
+  theme_minimal() +
+  labs(title = "Histogram of Sample Data", x = "Values", y = "Frequency")

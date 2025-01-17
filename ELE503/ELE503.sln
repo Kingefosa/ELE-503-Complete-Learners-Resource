@@ -1,0 +1,245 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ELE503", "ELE503\ELE503.csproj", "{F4EB5613-E270-4A47-8A3F-7E89069EC668}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 2", "Week 2", "{E0CBC1E1-019F-45DB-84AF-71C6077C7615}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 3", "Week 3", "{90FD7751-DCE5-409F-B9DA-1AEF3E858F81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 4", "Week 4", "{86120A11-5FF5-4E33-B94A-33FD52FEA36F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Normal Distribution Simulation", "Normal Distribution Simulation\Normal Distribution Simulation.csproj", "{D7F742C6-EA90-4708-BA42-BFCEB3BF6E71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binomial Distribution Simulation", "Binomial Distribution Simulation\Binomial Distribution Simulation.csproj", "{C718F866-E88C-428A-B5DE-E860A790BF60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poisson Distribution Simulation", "Poisson Distribution Simulation\Poisson Distribution Simulation.csproj", "{AA32D67A-1DE6-476B-9A40-11EA30338C63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Law of Large Numbers Demonstration", "Law of Large Numbers Demonstration\Law of Large Numbers Demonstration.csproj", "{A4AB1EF2-C233-48E7-97A8-6D4060564808}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Visualization with OxyPlot", "Data Visualization with OxyPlot\Data Visualization with OxyPlot.csproj", "{517874E2-C1FA-48A1-9E6D-2C3E65E40108}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{3BCD1B77-EAC3-4BB2-BC9D-92263B5CAED4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Newton-Raphson Method Implementation", "Newton-Raphson Method Implementation\Newton-Raphson Method Implementation.csproj", "{3927D1F5-2D1F-4410-8402-EE4E9B7AB0F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gauss-Seidel Method Implementation", "Gauss-Seidel Method Implementation\Gauss-Seidel Method Implementation.csproj", "{F39DE7B6-8FA0-4451-BF06-FA71FE82EF84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Visualization Example (Gauss-Seidel Convergence)", "Data Visualization Example (Gauss-Seidel Convergence)\Data Visualization Example (Gauss-Seidel Convergence).csproj", "{37065058-5079-41C3-B2D1-194615B0029B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 5", "Week 5", "{AB34E2B7-04DB-44DD-88D1-038FA14B648D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week 6", "week 6", "{4BCF7E04-32A1-46F2-B2BF-D0E168A58C55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 7", "Week 7", "{08B346C5-8C89-4B22-A423-D61419A2AE51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 9", "Week 9", "{51F1DEE9-E46A-4583-A76A-2615466FDBFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World in C#", "Hello World in C#\Hello World in C#.csproj", "{671A2C0C-8759-4575-B0E1-10A9FB7534AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculating the Area of a Triangle", "Calculating the Area of a Triangle\Calculating the Area of a Triangle.csproj", "{6A9E02B7-227D-4FC9-85C9-7656670B21EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hands-On Exercise 1 - Write a C# Program to Calculate the Volume of a Cylinder", "Write a C# Program to Calculate the Volume of a Cylinder\Hands-On Exercise 1 - Write a C# Program to Calculate the Volume of a Cylinder.csproj", "{8F31FFF6-861F-44B0-9754-A5D435A48599}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hands-On Exercise 2 - Control Structures", "Hands-On Exercise 2 - Control Structures\Hands-On Exercise 2 - Control Structures.csproj", "{46E14056-0B7B-43AB-9E82-17B65D7C09EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hands-On Exercise 3 - Object-Oriented Programming Basics", "Hands-On Exercise 3 - Object-Oriented Programming Basics\Hands-On Exercise 3 - Object-Oriented Programming Basics.csproj", "{18B218D0-D27A-4969-A234-495C61888E60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volume Calculator", "Volume Calculator\Volume Calculator.csproj", "{1DB754AA-8108-480F-BA20-A6381D5A846F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temperature Converter", "Temperature Converter\Temperature Converter.csproj", "{65D22F92-6FA5-4334-807D-8931062F444C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example Slide 1 - Building a Temperature Monitoring System", "Example Slide 1 - Building a Temperature Monitoring System\Example Slide 1 - Building a Temperature Monitoring System.csproj", "{11C853B2-FB5F-4437-AF14-F99AEC824473}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example Slide 2 - Implementing Inheritance and Polymorphism", "Example Slide 2 - Implementing Inheritance and Polymorphism\Example Slide 2 - Implementing Inheritance and Polymorphism.csproj", "{BC2C9582-54D7-481A-A4BA-9607AF545BE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example Slide 3 - Interfacing with Hardware Using Serial Communication", "Example Slide 3 - Interfacing with Hardware Using Serial Communication\Example Slide 3 - Interfacing with Hardware Using Serial Communication.csproj", "{E4F2703E-1CF6-4E32-B5F7-B8DF6D8F14D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example Slide 4 - Developing a Control System Interface", "Example Slide 4 - Developing a Control System Interface\Example Slide 4 - Developing a Control System Interface.csproj", "{411D9074-A1DD-4B00-BD61-A17564600D81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example Slide 5 - Applying Best Practices in C# Development", "Example Slide 5 - Applying Best Practices in C# Development\Example Slide 5 - Applying Best Practices in C# Development.csproj", "{CAD8CD6C-1009-49D9-8AB9-8D9DFC391205}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentations", "{42B3DF33-3D1A-4B8B-AE4B-5FAC187C6BBC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #1.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #1.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #2.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #2.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #3.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #3.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #4.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #4.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #5.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #5.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #6.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #6.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #7.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #7.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #9.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\pdf Presentation\ELE 503 week #9.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lecture Notes", "Lecture Notes", "{E7036E3D-91AB-4F5F-B4D9-1B7619FB758D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 1 Lecture Notes.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 1 Lecture Notes.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 2 Lecture Notes.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 2 Lecture Notes.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 3 Lecture Notes.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 3 Lecture Notes.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 4 Lecture Notes.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 4 Lecture Notes.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 5 Lecture Notes.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 5 Lecture Notes.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 6 Lecture Notes.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 6 Lecture Notes.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 7 Lecture Notes.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 7 Lecture Notes.pdf
+		..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 9 Lecture Notes.pdf = ..\..\..\Downloads\DELSU ELE 503 books\Lecture Notes and Presentations\Pdf Lecture notes\Week 9 Lecture Notes.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Python examples", "Python examples", "{C8C2E10B-9990-4DE0-98EE-3478995C4587}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 2", "Week 2", "{113A28D6-E570-4C01-B121-8A9AF77BCEB2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\ELE 503 Python codes\week 2\The Central Limit Theorem.png = ..\..\..\Downloads\ELE 503 Python codes\week 2\The Central Limit Theorem.png
+		..\..\..\Downloads\ELE 503 Python codes\week 2\The Central Limit Theorem.py = ..\..\..\Downloads\ELE 503 Python codes\week 2\The Central Limit Theorem.py
+		..\..\..\Downloads\ELE 503 Python codes\week 2\The Law of Large Numbers.png = ..\..\..\Downloads\ELE 503 Python codes\week 2\The Law of Large Numbers.png
+		..\..\..\Downloads\ELE 503 Python codes\week 2\The Law of Large Numbers.py = ..\..\..\Downloads\ELE 503 Python codes\week 2\The Law of Large Numbers.py
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 9", "Week 9", "{67095F2D-5C6F-4553-AA24-8EBFD93F5840}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 1 - Solving a Differential Equation.png = ..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 1 - Solving a Differential Equation.png
+		..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 1 - Solving a Differential Equation.py = ..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 1 - Solving a Differential Equation.py
+		..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 2 - System Optimization.py = ..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 2 - System Optimization.py
+		..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 3 - Data Analysis Pipeline.py = ..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 3 - Data Analysis Pipeline.py
+		..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 4 - Automating a Task.py = ..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 4 - Automating a Task.py
+		..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 5 - Visualization of Engineering Data.png = ..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 5 - Visualization of Engineering Data.png
+		..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 5 - Visualization of Engineering Data.py = ..\..\..\Downloads\ELE 503 Python codes\Week 9\Example Slide 5 - Visualization of Engineering Data.py
+		..\..\..\Downloads\ELE 503 Python codes\Week 9\temperature_data.csv = ..\..\..\Downloads\ELE 503 Python codes\Week 9\temperature_data.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Samples", "Code Samples", "{83134971-11EA-4485-85BD-265E9ADD9F69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4EB5613-E270-4A47-8A3F-7E89069EC668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EB5613-E270-4A47-8A3F-7E89069EC668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EB5613-E270-4A47-8A3F-7E89069EC668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EB5613-E270-4A47-8A3F-7E89069EC668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F742C6-EA90-4708-BA42-BFCEB3BF6E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F742C6-EA90-4708-BA42-BFCEB3BF6E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F742C6-EA90-4708-BA42-BFCEB3BF6E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F742C6-EA90-4708-BA42-BFCEB3BF6E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C718F866-E88C-428A-B5DE-E860A790BF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C718F866-E88C-428A-B5DE-E860A790BF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C718F866-E88C-428A-B5DE-E860A790BF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C718F866-E88C-428A-B5DE-E860A790BF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA32D67A-1DE6-476B-9A40-11EA30338C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA32D67A-1DE6-476B-9A40-11EA30338C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA32D67A-1DE6-476B-9A40-11EA30338C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA32D67A-1DE6-476B-9A40-11EA30338C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4AB1EF2-C233-48E7-97A8-6D4060564808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AB1EF2-C233-48E7-97A8-6D4060564808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4AB1EF2-C233-48E7-97A8-6D4060564808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AB1EF2-C233-48E7-97A8-6D4060564808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517874E2-C1FA-48A1-9E6D-2C3E65E40108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517874E2-C1FA-48A1-9E6D-2C3E65E40108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517874E2-C1FA-48A1-9E6D-2C3E65E40108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517874E2-C1FA-48A1-9E6D-2C3E65E40108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCD1B77-EAC3-4BB2-BC9D-92263B5CAED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCD1B77-EAC3-4BB2-BC9D-92263B5CAED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3927D1F5-2D1F-4410-8402-EE4E9B7AB0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3927D1F5-2D1F-4410-8402-EE4E9B7AB0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3927D1F5-2D1F-4410-8402-EE4E9B7AB0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3927D1F5-2D1F-4410-8402-EE4E9B7AB0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39DE7B6-8FA0-4451-BF06-FA71FE82EF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39DE7B6-8FA0-4451-BF06-FA71FE82EF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39DE7B6-8FA0-4451-BF06-FA71FE82EF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39DE7B6-8FA0-4451-BF06-FA71FE82EF84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37065058-5079-41C3-B2D1-194615B0029B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37065058-5079-41C3-B2D1-194615B0029B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37065058-5079-41C3-B2D1-194615B0029B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37065058-5079-41C3-B2D1-194615B0029B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671A2C0C-8759-4575-B0E1-10A9FB7534AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671A2C0C-8759-4575-B0E1-10A9FB7534AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671A2C0C-8759-4575-B0E1-10A9FB7534AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671A2C0C-8759-4575-B0E1-10A9FB7534AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9E02B7-227D-4FC9-85C9-7656670B21EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9E02B7-227D-4FC9-85C9-7656670B21EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9E02B7-227D-4FC9-85C9-7656670B21EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9E02B7-227D-4FC9-85C9-7656670B21EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F31FFF6-861F-44B0-9754-A5D435A48599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F31FFF6-861F-44B0-9754-A5D435A48599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F31FFF6-861F-44B0-9754-A5D435A48599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F31FFF6-861F-44B0-9754-A5D435A48599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E14056-0B7B-43AB-9E82-17B65D7C09EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E14056-0B7B-43AB-9E82-17B65D7C09EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E14056-0B7B-43AB-9E82-17B65D7C09EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E14056-0B7B-43AB-9E82-17B65D7C09EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B218D0-D27A-4969-A234-495C61888E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B218D0-D27A-4969-A234-495C61888E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B218D0-D27A-4969-A234-495C61888E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B218D0-D27A-4969-A234-495C61888E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB754AA-8108-480F-BA20-A6381D5A846F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB754AA-8108-480F-BA20-A6381D5A846F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB754AA-8108-480F-BA20-A6381D5A846F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB754AA-8108-480F-BA20-A6381D5A846F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D22F92-6FA5-4334-807D-8931062F444C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D22F92-6FA5-4334-807D-8931062F444C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D22F92-6FA5-4334-807D-8931062F444C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D22F92-6FA5-4334-807D-8931062F444C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C853B2-FB5F-4437-AF14-F99AEC824473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C853B2-FB5F-4437-AF14-F99AEC824473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C853B2-FB5F-4437-AF14-F99AEC824473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C853B2-FB5F-4437-AF14-F99AEC824473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2C9582-54D7-481A-A4BA-9607AF545BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2C9582-54D7-481A-A4BA-9607AF545BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2C9582-54D7-481A-A4BA-9607AF545BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2C9582-54D7-481A-A4BA-9607AF545BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F2703E-1CF6-4E32-B5F7-B8DF6D8F14D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F2703E-1CF6-4E32-B5F7-B8DF6D8F14D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F2703E-1CF6-4E32-B5F7-B8DF6D8F14D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F2703E-1CF6-4E32-B5F7-B8DF6D8F14D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411D9074-A1DD-4B00-BD61-A17564600D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411D9074-A1DD-4B00-BD61-A17564600D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411D9074-A1DD-4B00-BD61-A17564600D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411D9074-A1DD-4B00-BD61-A17564600D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD8CD6C-1009-49D9-8AB9-8D9DFC391205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD8CD6C-1009-49D9-8AB9-8D9DFC391205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD8CD6C-1009-49D9-8AB9-8D9DFC391205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD8CD6C-1009-49D9-8AB9-8D9DFC391205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4EB5613-E270-4A47-8A3F-7E89069EC668} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{E0CBC1E1-019F-45DB-84AF-71C6077C7615} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{90FD7751-DCE5-409F-B9DA-1AEF3E858F81} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{86120A11-5FF5-4E33-B94A-33FD52FEA36F} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{D7F742C6-EA90-4708-BA42-BFCEB3BF6E71} = {E0CBC1E1-019F-45DB-84AF-71C6077C7615}
+		{C718F866-E88C-428A-B5DE-E860A790BF60} = {E0CBC1E1-019F-45DB-84AF-71C6077C7615}
+		{AA32D67A-1DE6-476B-9A40-11EA30338C63} = {E0CBC1E1-019F-45DB-84AF-71C6077C7615}
+		{A4AB1EF2-C233-48E7-97A8-6D4060564808} = {E0CBC1E1-019F-45DB-84AF-71C6077C7615}
+		{517874E2-C1FA-48A1-9E6D-2C3E65E40108} = {E0CBC1E1-019F-45DB-84AF-71C6077C7615}
+		{3BCD1B77-EAC3-4BB2-BC9D-92263B5CAED4} = {90FD7751-DCE5-409F-B9DA-1AEF3E858F81}
+		{3927D1F5-2D1F-4410-8402-EE4E9B7AB0F0} = {86120A11-5FF5-4E33-B94A-33FD52FEA36F}
+		{F39DE7B6-8FA0-4451-BF06-FA71FE82EF84} = {86120A11-5FF5-4E33-B94A-33FD52FEA36F}
+		{37065058-5079-41C3-B2D1-194615B0029B} = {86120A11-5FF5-4E33-B94A-33FD52FEA36F}
+		{AB34E2B7-04DB-44DD-88D1-038FA14B648D} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{4BCF7E04-32A1-46F2-B2BF-D0E168A58C55} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{08B346C5-8C89-4B22-A423-D61419A2AE51} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{51F1DEE9-E46A-4583-A76A-2615466FDBFE} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{671A2C0C-8759-4575-B0E1-10A9FB7534AA} = {4BCF7E04-32A1-46F2-B2BF-D0E168A58C55}
+		{6A9E02B7-227D-4FC9-85C9-7656670B21EE} = {4BCF7E04-32A1-46F2-B2BF-D0E168A58C55}
+		{8F31FFF6-861F-44B0-9754-A5D435A48599} = {4BCF7E04-32A1-46F2-B2BF-D0E168A58C55}
+		{46E14056-0B7B-43AB-9E82-17B65D7C09EC} = {4BCF7E04-32A1-46F2-B2BF-D0E168A58C55}
+		{18B218D0-D27A-4969-A234-495C61888E60} = {4BCF7E04-32A1-46F2-B2BF-D0E168A58C55}
+		{1DB754AA-8108-480F-BA20-A6381D5A846F} = {4BCF7E04-32A1-46F2-B2BF-D0E168A58C55}
+		{65D22F92-6FA5-4334-807D-8931062F444C} = {4BCF7E04-32A1-46F2-B2BF-D0E168A58C55}
+		{11C853B2-FB5F-4437-AF14-F99AEC824473} = {08B346C5-8C89-4B22-A423-D61419A2AE51}
+		{BC2C9582-54D7-481A-A4BA-9607AF545BE6} = {08B346C5-8C89-4B22-A423-D61419A2AE51}
+		{E4F2703E-1CF6-4E32-B5F7-B8DF6D8F14D6} = {08B346C5-8C89-4B22-A423-D61419A2AE51}
+		{411D9074-A1DD-4B00-BD61-A17564600D81} = {08B346C5-8C89-4B22-A423-D61419A2AE51}
+		{CAD8CD6C-1009-49D9-8AB9-8D9DFC391205} = {08B346C5-8C89-4B22-A423-D61419A2AE51}
+		{C8C2E10B-9990-4DE0-98EE-3478995C4587} = {83134971-11EA-4485-85BD-265E9ADD9F69}
+		{113A28D6-E570-4C01-B121-8A9AF77BCEB2} = {C8C2E10B-9990-4DE0-98EE-3478995C4587}
+		{67095F2D-5C6F-4553-AA24-8EBFD93F5840} = {C8C2E10B-9990-4DE0-98EE-3478995C4587}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A53560-C13C-42FE-BCE7-5E6CCD712A8B}
+	EndGlobalSection
+EndGlobal
