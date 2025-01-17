@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Example Slide 1 - Building a Temperature Monitoring System/1.0.0": {
+        "runtime": {
+          "Example Slide 1 - Building a Temperature Monitoring System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example Slide 1 - Building a Temperature Monitoring System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
