@@ -69,7 +69,7 @@ Provide sample code snippets and explain them line by line.
 Assign exercises to write simple programs performing engineering calculations.
 Discuss how these languages laid the foundation for modern programming.
 
-#Week 6: Introduction to C# Programming
+# Week 6: Introduction to C# Programming
 Learning Objectives:
 Understand C# syntax, data types, and control structures.
 Write simple C# programs to solve engineering problems.
